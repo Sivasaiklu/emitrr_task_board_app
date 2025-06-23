@@ -100,11 +100,11 @@ Drag the /build folder to Netlify, or connect your GitHub repo to Netlify and co
 
 Siva Sai Kumar Nukala
 
-GitHub: @Sivasaiklu
+GitHub: [GitHub](https:github.com/Sivasaiklu)
 
-LinkedIn: linkedin.com/in/sivasainukala16
+LinkedIn: [LinkedIn](https:linkedin.com/in/sivasainukala16)
 
-PortFolio: https://sivasaiklu.github.io/PortFolio
+PortFolio: [PortFolio](https://sivasaiklu.github.io/PortFolio)
 
 ### 📄 License
 
