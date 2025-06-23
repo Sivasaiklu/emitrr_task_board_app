@@ -4,7 +4,7 @@ This is a Task Board Management Application built using **React**, **Redux Toolk
 
 ### 🚀 Live Demo
 
-🔗 [Click here to try the live app](https://your-netlify-app-link.netlify.app)
+🔗 [Click here to try the live app](https://boards-task.netlify.app/)
 
 > _(Replace this link with your actual Netlify deployment URL)_
 
@@ -105,16 +105,6 @@ GitHub: [GitHub](https:github.com/Sivasaiklu)
 LinkedIn: [LinkedIn](https:linkedin.com/in/sivasainukala16)
 
 PortFolio: [PortFolio](https://sivasaiklu.github.io/PortFolio)
-
-### 📄 License
-
-This project is licensed under the MIT License. Feel free to use and modify it.
-
-### ✅ Next Steps
-
-1. Copy and paste this into your `README.md`.
-2. Replace the Netlify deployment link (`https://your-netlify-app-link.netlify.app`) with your actual one.
-3. Push it to GitHub.
 
 Let me know if you also want a demo video/GIF for README or want to add badges (like Netlify Status, Tech Stack, etc.).
 
