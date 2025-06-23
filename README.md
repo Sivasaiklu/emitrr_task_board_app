@@ -1,46 +1,141 @@
-# Getting Started with Create React App
+# 🗂️ Emitrr Task Board App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a Task Board Management Application built using **React**, **Redux Toolkit**, and **TypeScript**. The app allows users to create boards, add columns, manage tasks, and track progress in a Kanban-style layout.
 
-## Available Scripts
+### 🚀 Live Demo
 
-In the project directory, you can run:
+🔗 [Click here to try the live app](https://your-netlify-app-link.netlify.app)
 
-### `npm start`
+> _(Replace this link with your actual Netlify deployment URL)_
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+---
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## 📂 Folder Structure
 
-### `npm test`
+![image](https://github.com/user-attachments/assets/fba6629f-828b-4d89-9439-7a5d8e60c34b)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## 🛠️ Tech Stack
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- **React**
+- **TypeScript**
+- **Redux Toolkit**
+- **React Router**
+- **TailwindCSS** (optional: if used)
+- **Netlify** (for deployment)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `npm run eject`
+## 🧰 Features
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- 📋 Create and delete task boards
+- 📊 Add and remove columns dynamically
+- ✅ Create, update, and delete tasks inside columns
+- 🔁 Drag-and-drop support for moving tasks (if implemented)
+- 📅 View due dates, priority levels, and assignee details
+- ⚡ Responsive UI and modal-based forms
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+---
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+## ⚙️ Getting Started (Run Locally)
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+To run this app locally on your machine:
 
-## Learn More
+### 1. Clone the Repository
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+git clone https://github.com/Sivasaiklu/emitrr-task-board-app.git
+cd emitrr-task-board-app
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+### 2. Install Dependencies
+
+```bash
+npm install
+```
+
+### 3. Start Development Server
+
+```bash
+npm start
+```
+
+The app will open at http://localhost:3000 (or another port like 5173 if using Vite).
+
+If your default port is in use, CRA or Vite may assign a new one.
+
+
+### 🌍 Deployment
+
+The app is deployed on Netlify.
+
+To deploy your own version:
+
+### Build the app:
+
+```bash
+npm run build
+```
+
+Drag the /build folder to Netlify, or connect your GitHub repo to Netlify and configure continuous deployment.
+
+### Assignment Guidelines Followed
+
+✅ Public GitHub repository
+
+✅ Clear instructions to run locally
+
+✅ Live frontend deployed on Netlify
+
+✅ Small, incremental commits
+
+✅ Meaningful comments in code
+
+✅ Type-safe implementation using TypeScript
+
+
+### 🙋‍♂️ Author
+
+Siva Sai Kumar Nukala
+
+GitHub: @Sivasaiklu
+
+LinkedIn: linkedin.com/in/sivasainukala16
+
+PortFolio: https://sivasaiklu.github.io/PortFolio
+
+### 📄 License
+
+This project is licensed under the MIT License. Feel free to use and modify it.
+
+### ✅ Next Steps
+
+1. Copy and paste this into your `README.md`.
+2. Replace the Netlify deployment link (`https://your-netlify-app-link.netlify.app`) with your actual one.
+3. Push it to GitHub.
+
+Let me know if you also want a demo video/GIF for README or want to add badges (like Netlify Status, Tech Stack, etc.).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
