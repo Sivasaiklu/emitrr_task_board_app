@@ -100,8 +100,6 @@ Drag the /build folder to Netlify, or connect your GitHub repo to Netlify and co
 
 Siva Sai Kumar Nukala
 
-GitHub: [GitHub](https:github.com/Sivasaiklu)
-
 LinkedIn: [LinkedIn](https:linkedin.com/in/sivasainukala16)
 
 PortFolio: [PortFolio](https://sivasaiklu.github.io/PortFolio)
